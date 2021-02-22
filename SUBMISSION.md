@@ -8,10 +8,16 @@ repository.
 ![Figure 2](figures/Figure2_Travis_Initial_Build.png)
 
 5 pts The section of the POM file showing the coordinates after you’ve changed them.
+![Figure 3](figures/Figure3_POM_Change.png)
+
 5 pts Your Travis CI dashboard showing a successful build after your change of the group
 ID.
+![Figure 4](figures/Figure4_TravisCI_Success_GroupIdChange.png)
+
 5 pts The section of the POM file showing the coordinates after you’ve commented them
 out.
+![Figure 5](figures/Figure5_POM_CommentedCoordinates.png)
+
 5 pts Your Travis CI dashboard showing the unsuccessful build after the breaking change.
 5 pts Your Github repository with the readme.md file selected showing the build failed
 status after the Travis CI build fails.
