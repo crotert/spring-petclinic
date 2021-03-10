@@ -36,7 +36,9 @@ been fixed.
 status after the Travis CI build has recovered.
 ![Figure 10](figures/Figure10_GitHub_Readme_FixedPOM.png)
 
+```
 Image Links for HW7
+
 VAGRANT
 5 pts The output from the vagrant box list command after you execute the
 vagrant box add command.
@@ -60,23 +62,47 @@ shows the browser’s address bar.
 
 
 HEROKU
+
 5 pts Your Heroku application list showing the Spring PetClinic application.
+
+
 5 pts Your Heroku Spring PetClinic pipeline.
+
+
 5 pts Your browser accessing the main page of the Spring PetClinic from Heroku. Make
 sure your screen capture shows the browser’s address bar.
+
+
+
 CHEF
+
 5 pts The output of the generate cookbook command.
+
+
 5 pts The directory structure for your cookbook.
+
+
 5 pts The content of the first_cookbook.rb recipe.
+
+
 5 pts The successful execution of the first_cookbook.rb recipe the first time. Show the
 directory where the test.txt file will be created and the contents of that file after
 running the chef recipe.
+
+
 5 pts The successful execution of the first_cookbook.rb recipe after deleting the file.
 Show the directory that used to contain the test.txt file and the contents of that
 file after running the chef recipe.
+
+
 5 pts The successful execution of the first_cookbook.rb recipe after changing the contents
 of the test.txt file. Show the contents of test.txt file after your change and the
 contents of that file after running the chef recipe.
+
+
 5 pts The successful execution of the first_cookbook.rb recipe after changing the contents
 of the recipe itself. Show the contents of first_cookbook.rb file after your change
 and the contents of test.txt after running the chef recipe.
+
+
+```
