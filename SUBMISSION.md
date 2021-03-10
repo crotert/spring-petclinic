@@ -64,44 +64,46 @@ shows the browser’s address bar.
 HEROKU
 
 5 pts Your Heroku application list showing the Spring PetClinic application.
-
+![Figure 16](figures/hw7_figures/Figure6_Heroku_App.png)
 
 5 pts Your Heroku Spring PetClinic pipeline.
-
+![Figure 17](figures/hw7_figures/Figure7_Heroku_Pipeline.png)
 
 5 pts Your browser accessing the main page of the Spring PetClinic from Heroku. Make
 sure your screen capture shows the browser’s address bar.
-
+![Figure 18](figures/hw7_figures/Figure8_Heroku_SpringPetClinic.png)
 
 
 CHEF
 
 5 pts The output of the generate cookbook command.
-
+![Figure 19](figures/hw7_figures/Figure9_Chef_GenerateCookbook.png)
 
 5 pts The directory structure for your cookbook.
-
+![Figure 20](figures/hw7_figures/Figure10_Chef_CookbookDirectory.png)
 
 5 pts The content of the first_cookbook.rb recipe.
-
+![Figure 21](figures/hw7_figures/Figure11_Chef_RecipeContent.png)
 
 5 pts The successful execution of the first_cookbook.rb recipe the first time. Show the
 directory where the test.txt file will be created and the contents of that file after
 running the chef recipe.
+![Figure 22](figures/hw7_figures/Figure12_Chef_FirstExecution_TestTextContents.png)
 
 
 5 pts The successful execution of the first_cookbook.rb recipe after deleting the file.
 Show the directory that used to contain the test.txt file and the contents of that
 file after running the chef recipe.
+![Figure 23](figures/hw7_figures/Figure13_Chef_DeleteTestText_RerunCookbook.png)
 
 
 5 pts The successful execution of the first_cookbook.rb recipe after changing the contents
 of the test.txt file. Show the contents of test.txt file after your change and the
 contents of that file after running the chef recipe.
-
+![Figure 24](figures/hw7_figures/Figure14_Chef_EditTestFile_RunCookbook.png)
 
 5 pts The successful execution of the first_cookbook.rb recipe after changing the contents
 of the recipe itself. Show the contents of first_cookbook.rb file after your change
 and the contents of test.txt after running the chef recipe.
-
+![Figure 25](figures/hw7_figures/Figure15_Chef_ModifiedRecipe_NewTestText)
 
