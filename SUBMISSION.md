@@ -105,5 +105,5 @@ contents of that file after running the chef recipe.
 5 pts The successful execution of the first_cookbook.rb recipe after changing the contents
 of the recipe itself. Show the contents of first_cookbook.rb file after your change
 and the contents of test.txt after running the chef recipe.
-![Figure 25](figures/hw7_figures/Figure15_Chef_ModifiedRecipe_NewTestText)
+![Figure 25](figures/hw7_figures/Figure15_Chef_ModifiedRecipe_NewTestText.png)
 
