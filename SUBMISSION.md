@@ -36,7 +36,7 @@ been fixed.
 status after the Travis CI build has recovered.
 ![Figure 10](figures/Figure10_GitHub_Readme_FixedPOM.png)
 
-```
+
 Image Links for HW7
 
 VAGRANT
@@ -105,4 +105,3 @@ of the recipe itself. Show the contents of first_cookbook.rb file after your cha
 and the contents of test.txt after running the chef recipe.
 
 
-```
