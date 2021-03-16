@@ -107,3 +107,45 @@ of the recipe itself. Show the contents of first_cookbook.rb file after your cha
 and the contents of test.txt after running the chef recipe.
 ![Figure 25](figures/hw7_figures/Figure15_Chef_ModifiedRecipe_NewTestText.png)
 
+HW8 Deliverables
+
+DOCKER
+5 pts Your dockerle. Please provide a link to this le rather than a screen capture.
+[Dockerfile](Dockerfile)
+
+
+5 pts Your running docker instance as shown by a ps command.
+![Figure 26](figures/hw8_figures/Figure1_DockerRunningProcess.png)
+
+
+5 pts Your browser accessing the main page of the website from your local container.
+![Figure 27](figures/hw8_figures/Figure2_BrowserAcessFromLocalContainer.png)
+
+DOCKER COMPOSE - MYSQL ONLY
+5 pts The output from the docker-compose up command.
+
+
+5 pts Your browser accessing the \Veterinarians" page of the website from your local con-
+tainer when you run the application from the host system.
+
+
+5 pts A section of the stack trace generated when you attempt to run the application
+container that has been updated to use MySQL.
+
+
+DOCKER COMPOSE - APP SERVER AND MYSQL
+5 pts Your updated docker-compose.yml le containing the application server, built from
+your local Dockerle, and the existing MySQL conguration. Please provide a link
+to this le rather than a screen capture.
+
+
+5 pts Your updated application-mysql.properties le containing the URL change for
+the database server. Please provide a link to this le rather than a screen capture.
+
+
+5 pts The output from the docker-compose up command.
+
+
+5 pts Your browser accessing the \Veterinarians" page of the website from your local con-
+tainer.
+
