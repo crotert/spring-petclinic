@@ -110,7 +110,7 @@ and the contents of test.txt after running the chef recipe.
 HW8 Deliverables
 
 DOCKER
-5 pts Your dockerle. Please provide a link to this le rather than a screen capture.
+5 pts Your dockerfile. Please provide a link to this le rather than a screen capture.
 [Dockerfile](Dockerfile)
 
 
@@ -123,15 +123,16 @@ DOCKER
 
 DOCKER COMPOSE - MYSQL ONLY
 5 pts The output from the docker-compose up command.
-
+![Figure 28](figures/hw8_figures/Figure3_DockerComposeUp_SQL_Only.png)
 
 5 pts Your browser accessing the \Veterinarians" page of the website from your local con-
 tainer when you run the application from the host system.
+![Figure 29](figures/hw8_figures/Figure4_VeterinariansPage.png)
 
 
 5 pts A section of the stack trace generated when you attempt to run the application
 container that has been updated to use MySQL.
-
+![Figure 30](figures/hw8_figures/Figure5_ConnectionException.png)
 
 DOCKER COMPOSE - APP SERVER AND MYSQL
 5 pts Your updated docker-compose.yml le containing the application server, built from
